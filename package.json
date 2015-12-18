@@ -4,7 +4,8 @@
   "description": "telegram bot for transliterating arabic to hebrew",
   "main": "server.js",
   "dependencies": {
-    "node-telegram-bot-api": "^0.15.0"
+    "node-telegram-bot-api": "^0.15.0",
+    "nconf": "0.8.2"
   },
   "devDependencies": {},
   "scripts": {
