@@ -1,0 +1,31 @@
+{
+  "name": "teliterate",
+  "version": "1.0.0",
+  "description": "telegram bot for transliterating arabic to hebrew",
+  "main": "server.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjesus/teliterate.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "arabic",
+    "hebrew",
+    "transliteration"
+  ],
+  "author": "Yo'av Moshe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjesus/teliterate/issues"
+  },
+  "homepage": "https://github.com/bjesus/teliterate#readme"
+}
